@@ -1,6 +1,4 @@
-## Nicola Stebbing, welcome to nicolastebbing.com!
-
-Hallochen!
+## Hallochen!
 
 I was bored and this felt like a belated birthday present that may be more useful than a lamp. I'm also still convinced that I can fix your broken lamp.
 
