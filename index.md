@@ -15,4 +15,4 @@ Hope it comes in useful at some point.
 Lots of love,
 Sam x
 
-![](IMG_20200613_19144.jpg)
+![Us](assets/IMG_20200613_19144.jpg)
