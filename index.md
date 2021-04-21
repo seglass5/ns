@@ -14,4 +14,4 @@ Lots of love,
 
 Sam x
 
-![](https://github.com/seglass5/ns/blob/gh-pages/assets/IMG_20200613_191444.jpg)
+![IMG_20200613_191444](https://user-images.githubusercontent.com/15129871/115560953-ff865380-a2ac-11eb-8d8e-a0082a5576e8.jpg)
